@@ -1,7 +1,6 @@
 # PWC-Power-BI-Virtual-work-experience---Customer-Churn-Retention
 --
 Table of Contents:
-
 Problem Statement
 Datasource
 Data Preparation
